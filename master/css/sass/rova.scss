@@ -159,7 +159,7 @@ html {
     color:#333;
     text-align:center;
     font-size:50px;
-    font-weight:100;
+    font-weight:300;
 
     &__title {
       display:flex;
@@ -416,9 +416,9 @@ html {
           max-width:533px;
           margin:0 auto;
           vertical-align:top;
-          -webkit-box-shadow: 10px 10px 25px 3px rgba(0,0,0,0.30);
-          -moz-box-shadow: 10px 10px 25px 3px rgba(0,0,0,0.30);
-          box-shadow: 10px 10px 25px 3px rgba(0,0,0,0.30);
+          // -webkit-box-shadow: 10px 10px 25px 3px rgba(0,0,0,0.30);
+          // -moz-box-shadow: 10px 10px 25px 3px rgba(0,0,0,0.30);
+          // box-shadow: 10px 10px 25px 3px rgba(0,0,0,0.30);
         }
       }
       &__title {

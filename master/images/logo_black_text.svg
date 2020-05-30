@@ -1,49 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="178" height="55" viewBox="0 0 178 55">
-  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""/>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?></metadata>
-<defs>
-    <style>
-      .cls-1, .cls-2 {
-        fill: #0c131f;
-      }
-
-      .cls-1 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        font-size: 3.065px;
-        text-anchor: middle;
-        font-family: "Noto Sans CJK KR";
-      }
-    </style>
-  </defs>
-  <path class="cls-1" d="M81.085,16.6A16.1,16.1,0,1,1,64.987.429,16.134,16.134,0,0,1,81.085,16.6Zm48.3-16.171-16.1,32.341L97.184,0.429h32.2Zm16.1,32.341,16.1-32.341,16.1,32.341h-32.2ZM23.13,19.834a9.7,9.7,0,0,0,0-19.4H0.592V32.77h32.2L19.911,19.834H23.13Z"/>
-  <text id="Rhythm_of_Visual_Art" data-name="Rhythm of Visual Art" class="cls-2" transform="translate(88.316 52.254) scale(3.915)"><tspan x="0">Rhythm of Visual Art</tspan></text>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 178 55" style="enable-background:new 0 0 178 55;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#0C131F;}
+</style>
+<path class="st0" d="M81.1,19.6c0,8.9-7.3,16.1-16.2,16s-16.1-7.3-16-16.2c0-8.9,7.2-16,16.1-16C73.9,3.4,81.1,10.7,81.1,19.6
+	C81.1,19.6,81.1,19.6,81.1,19.6z M129.4,3.4l-16.1,32.3L97.2,3.4L129.4,3.4L129.4,3.4z M145.5,35.8l16.1-32.3l16.1,32.3H145.5
+	L145.5,35.8z M23.1,22.8c5.4,0,9.7-4.3,9.7-9.7c0-5.4-4.3-9.7-9.7-9.7H0.6v32.3h32.2L19.9,22.8H23.1z"/>
 </svg>
